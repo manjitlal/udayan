@@ -1,0 +1,77 @@
+body
+{
+    background-color:#212F3C;
+	color: wheat;
+	//font-size: 18px;
+
+}
+.header
+{
+  //padding: 4px;
+  //font-size: 18px;
+}
+.main-name
+{
+	margin-top: 0;
+	padding-top:18%;
+	padding-left:30%;
+	color: green;
+	font-size: 60px;
+}
+.down
+{
+	padding-top:10%;
+	padding-left:27%;
+	color: blue;
+	font-size: 50px;
+}
+.down span
+{
+	padding-top:0%;
+	padding-left:26%;
+	color:red;
+	font-size: 50px;
+}
+.content1
+{
+
+	background-image: url('../images/about/dragon.jpg');
+	min-height: 800px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+	word-spacing: 7px;
+	text-indent:10px;
+	opacity: 0.8;
+}
+.content2
+{
+
+	background-image: url('../images/about/trident.jpg');
+	min-height: 800px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+	opacity: 0.8;
+	word-spacing: 7px;
+}
+
+.content3
+{
+
+	background-image: url('../images/about/blue.jpg');
+	min-height: 800px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+	opacity: 0.8;
+	word-spacing: 7px;
+}
+#box0
+{
+//background-color:rgba(0,0,0,0.3);
+
+}
+.no-margin-bottom {
+	margin-bottom: 0;
+}

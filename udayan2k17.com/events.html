@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Udayan: Events</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css" />
+	<link rel="stylesheet" href="css/events.css" type="text/css">
+  <link rel="stylesheet" href="css/hover.css" type="text/css">
+   <link rel="stylesheet" type="text/css" href="css/loader.css" />
+	<script type="text/javascript" src="jquery/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+</head>
+<body>
+	<!-- Loader Start -->
+	<div id="loader"></div>
+	<script type="text/javascript" src="js/loader.js"></script>
+	<!-- Loader End -->
+
+  <div id="contents">
+ <nav class="navbar navbar-inverse navbar-fixed-top header">
+    <div class="container-fluid" id="no-padd">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="index.html">Udayan 2k17</a>
+        <button type="button" class="navbar-toggle"  data-toggle="collapse" data-target="#menu">
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="menu">
+        <ul class="nav navbar-nav">
+          <li><a href="index.html" class="hvr-sweep-to-right">Home</a></li>
+          <li class="active"><a href="events.html" class="hvr-sweep-to-right">Events</a></li>
+          <li><a href="gallery.html" class="hvr-sweep-to-right">Gallery</a></li>
+          <li><a href="#" class="hvr-sweep-to-right">Sponsers</a></li>
+          <li><a href="team.html" class="hvr-sweep-to-right">Team</a></li>
+          <li><a href="registration.html" class="hvr-sweep-to-right">Register</a></li>
+          <li><a href="about_us.html" class="hvr-sweep-to-right">About-us</a></li>
+        </ul>
+      </div>  
+    </div>
+  </nav>
+    <div class="container-fluid">
+   <div>
+   <img src="images/event/bg.jpg" style="margin-top:40px;margin-left:-14px;">
+ </div>  
+ <div class="island1">
+   <a href="branch.html?event-branch=mech"><img src="images/legendary/mech.png" class="img-responsive" style="width: 150px;"/></a>
+ </div>
+ <div class="island2">
+   <a href="branch.html?event-branch=eee"><img src="images/legendary/eee.png" class="img-responsive" style=";width: 150px;"/></a>
+ </div>
+ <div class="island3">
+   <a href="branch.html?event-branch=ee"><img src="images/legendary/ee.png" class="img-responsive" style="width: 150px;"/></a>
+ </div>
+  <div class="island4">
+   <a href="branch.html?event-branch=cse"><img src="images/legendary/cse.png" class="img-responsive" style="width: 150px;"/></a>
+ </div>
+  <div class="island5">
+   <a href="branch.html?event-branch=civil"><img src="images/legendary/civil.png" class="img-responsive" style="width: 150px;"/></a>
+ </div>
+ <div class="island6">
+   <a href="branch.html?event-branch=etc"><img src="images/legendary/etc.png" class="img-responsive" style="width: 150px;"/></a>
+ </div>
+ <div class="col-sm-offset-4 col-sm-4 panel">
+   <h3>PICK YOUR POKEMON</h3>
+ </div>
+ </div>
+ </div>
+</body>
+<style>
+  
+</style>
+<script>
+  $(document).ready(function(){
+     $('.island1').hover(function(){
+      $("h3").text("MECHANICAL EVENTS");
+     });
+     $('.island1').mouseleave(function(){
+      $("h3").text("PICK YOUR POKEMON");
+     })
+     $('.island2').hover(function(){
+      $("h3").text("EEE EVENTS");
+     });
+     $('.island2').mouseleave(function(){
+     $("h3").text("PICK YOUR POKEMON");
+     })
+     $('.island3').hover(function(){
+      $("h3").text("EE EVENTS");
+     });
+     $('.island3').mouseleave(function(){
+      $("h3").text("PICK YOUR POKEMON");
+     })
+     $('.island4').hover(function(){
+      $("h3").text("CSE & IT EVENTS");
+     });
+     $('.island4').mouseleave(function(){
+      $("h3").text("PICK YOUR POKEMON");
+     })
+     $('.island5').hover(function(){
+      $("h3").text("CIVIL EVENTS");
+     });
+     $('.island5').mouseleave(function(){
+      $("h3").text("PICK YOUR POKEMON");
+     })
+     $('.island6').hover(function(){
+      $("h3").text("ETC EVENTS");
+     });
+     $('.island6').mouseleave(function(){
+      $("h3").text("PICK YOUR POKEMON");
+     })
+  });
+  </script>
+  </html>
+	

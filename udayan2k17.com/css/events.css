@@ -1,0 +1,162 @@
+.header {
+	//padding: 4px;
+	//font-size: 18px;
+}
+.island-img {
+	position: relative;
+}
+.island1 {
+    position: absolute;
+    top:50%;
+    left:12%;
+    -webkit-animation-name: example1;
+    -webkit-animation-duration: 1s;
+    animation-name: example1;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    transition: all .2s ease-in-out; 
+}
+@-webkit-keyframes example1 {
+    from {top:50%;}
+    to {top:47%;}
+}
+@keyframes example1 {
+    from {top:50%;}
+    to {top:47%;}
+}
+.island2 {
+    position: absolute;
+    top: 18%;
+    left: 25%;
+    -webkit-animation-name: example2;
+    -webkit-animation-duration: 1s;
+    animation-name: example2;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    transition: all .2s ease-in-out; 
+}
+@-webkit-keyframes example2 {
+    from {top:18%;}
+    to {top:15%;}
+}
+@keyframes example2 {
+    from {top:18%;}
+    to {top:15%;}
+}
+.island3
+{
+    position: absolute;
+    top: 13%;
+    left: 60%;
+    -webkit-animation-name: example3;
+    -webkit-animation-duration: 1s;
+    animation-name: example3;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    transition: all .2s ease-in-out; 
+}
+@-webkit-keyframes example3 {
+    from {top:13%;}
+    to {top:10%;}
+}
+@keyframes example3 {
+    from {top:13%;}
+    to {top:10%;}
+}
+.island4 {
+    position: absolute;
+    top:38%;
+    left:62%;
+    -webkit-animation-name: example4;
+    -webkit-animation-duration: 1s;
+    animation-name: example4;
+    animation-duration: 1s;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    transition: all .2s ease-in-out; 
+}
+@-webkit-keyframes example4 {
+    from {top:38%;}
+    to {top:35%;}
+}
+@keyframes example4 {
+    from {top:38%;}
+    to {top:35%;}
+}
+.island5 {
+    position: absolute;
+    top: 79%;
+    left: 77%;
+    -webkit-animation-name: example5;
+    -webkit-animation-duration: 1s;
+    animation-name: example5;
+    animation-duration: 1s;
+    animation-delay: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    transition: all .2s ease-in-out; 
+}
+@-webkit-keyframes example5 {
+    from {top:79%;}
+    to {top:81%;}
+}
+@keyframes example5 {
+    from {top:79%;}
+    to {top:81%;}
+}
+.island6 {
+    position: absolute;
+    top: 47%;
+    left: 44%;
+    -webkit-animation-name: example6;
+    -webkit-animation-duration: 1s;
+    animation-name: example6;
+    animation-duration: 1s;
+    animation-delay: 6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    transition: all .2s ease-in-out; 
+}
+@-webkit-keyframes example6 {
+    from {top:47%;}
+    to {top:43%;}
+}
+@keyframes example6 {
+    from {top:47%;}
+    to {top:43%;}
+}
+.island1:hover, .island2:hover, .island3:hover, .island4:hover, .island5:hover, .island6:hover {
+	transform: scale(1.2);
+}
+.panel {
+	border: 2px solid black;
+	margin-top:-6%;
+	text-align: center;
+	background: none;
+	color: greenyellow;
+	font-family: verdana;
+	font-weight: bolder;
+    font-size:42px;
+}
+.footer {
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color:white;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 16px;
+    font-family: verdana;
+}

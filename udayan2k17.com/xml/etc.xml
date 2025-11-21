@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etc>
+	<event event-id="1">
+		<event-name>Route Trace</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Robo</event-clubName>
+		<event-info name="About The Event">This is a Club Event</event-info>
+		<event-image>images/etc/1/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>The students have to design a automated bot using IR sensor or Ultrasonic sensor that detects the presence of obstacle and have to reach the other side of the maze. Traversing the maze in the shortest possible time will be adjourned as winner. “Time Factor” is vital.</item>
+			<item>Rules :</item>
+			<item> 1.The bot has to traverse in minimal time to reach the end point of the maze.</item>
+			<item>2.At each check point the bot will be awarded points. </item>
+			<item> 3.During a tie-up in time, the selection will be made according to highest point obtained.</item>
+			<item>Bot Specification :</item>
+			<item>1.The bot should fit into a box having dimension 20cm x 20cm and should weigh not more than 1kg.</item>
+			<item>2.The bot should be completely autonomous. It should have ONE onboard switch to start. The switch must be shown to the organizers before the run.</item>
+			<item>3.Onboard battery supply is a must.</item>
+			<item>4.Lego kits are not allowed.</item>
+			<item>5.Type of sensors used for detection must be shown to the organizer before the run.</item>
+			<item>Reference Video Links Search Maze Solver
+			https://www.youtube.com/watch?v=ekeUSu_ubf8
+			https://www.youtube.com/watch?v=YqTaLI2camI</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+			N/A
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Shashank Aggarwal</name>
+				<number>8908508600</number>
+				<name>Ananya singh(3rd yr)</name>
+				<number>000000000</number>
+				<name>Prayash Pandit(3rd yr)</name>
+				<number>000000000</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>3000</item>
+			<item>2000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="2">
+		<event-name>Exhibition</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Robo</event-clubName>
+		<event-info name="About The Event">This is a club event.</event-info>
+		<event-image>images/etc/2/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>The students have to design a bot or project irrespective of its function, so as to display its feat in the form of a robotics exhibition. The bot must be designed such that it can be put up for exhibition. It must have a vision and An Idea with Its application.</item>
+			<item>REGISTRATION RS 400 per Robo Event per Team max of 5 members, Extra helping members need to make visitors ID with entry fees of RS 100.</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>N/A</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Prof Arun Kumar Pradhan</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Shashank Aggarwal</name>
+				<number>8908508600</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="3">
+		<event-name>Track Climb</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Robo</event-clubName>
+		<event-info name="About The Event">This is club Event.Sensor based Bot to climb a flyover bridge without falling; detecting turns and edges of bridge.</event-info>
+		<event-image>images/etc/3/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>The students have to design a automated bot using IR sensor or Ultrasonic sensor that detects the presence of Edges and have to Avoid the edges and keep moving forward in elevated Bridge.: </item>
+			<item>Traversing the Bridge in the shortest possible time will be adjourned as winner.</item>
+			<item>“Time Factor” is vital.</item>
+			<item>Rules :</item>
+			<item>1.The bot has to traverse in minimal time to reach the end point of the Bridge.</item>
+			<item>2.At each check point the bot will be awarded points.</item>
+			<item>3.During a tie-up in time, the selection will be made according to highest point obtained.</item>
+			<item>Bot Specification:</item>
+			<item> 1.The bot should fit into a box having dimension 20cm x 20cm and should weigh not more than 1kg.</item>
+			<item> 2.The bot should be completely autonomous. It should have ONE onboard switch to start. The switch must be shown to the organizers before the run.</item>
+			<item>3.Onboard battery supply is a must.</item>
+			<item>4.Lego kits are not allowed.</item>
+			<item>5.Type of sensors used for detection must be shown to the organizer before the run.</item>
+			<item>Reference Video Links for Edge Avoider Bot
+			https://www.youtube.com/watch?v=q-E62uhMx7c
+			https://www.youtube.com/watch?v=Da-y5ALE4vg</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>N/A</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Prof Arun Kumar Pradhan</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Shashank Aggarwal</name>
+				<number>8908508600</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	
+
+	<event event-id="4">
+		<event-name>Robowar</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Robo</event-clubName>
+		<event-info name="About The Event">War With Robots</event-info>
+		<event-image>images/etc/4/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>ARENA:- Rectangular area having dimension 8ft X 8ft , Full Protected With Fencing Irregular zones, Slippery zones and Point Zones.</item>
+			<item>TEAM SPECIFICATION:-</item>
+			<item>1. A team can consist of maximum 5 members. More than 5 members will not be allowed. Minimum 3 members per team.
+			</item>
+			<item>2. Students from a team should be from the same institutions. Valid I-card must be kept and shown to organizer before the war.
+			</item>
+			<item>3. Team can make the bot wired or wireless. You have to keep sufficient length for the wires.
+			</item>
+			<item>4. Two members from each team will be allowed to stand just outside the danger zone and play the match. Other members have to outside the boundary.</item>
+			<item>BOT SPECIFICATION</item>
+			<item>1. All Intact dimensions are Allowed, No Extra Piece is allowed to add or remove during game play.</item>
+			<item>2. Maximum Weights are 45 kg (Strictly) for Light Weight &amp; 64 kg for Heavy Weight respectively including the weight of pneumatics and hydraulics (if used) on board. Note: The bot will be weighed before the match. Tolerance of weight allowed till 45kg &amp; 65 kg Above will not be allowed.</item>
+			<item>3. Use of industrial motor/ hi-torque motors are permitted along with normal motor.</item>
+			<item>WEAPONS SYSTEMS:</item>
+			<item>Robots can have any kind of cutters, flippers, saws, lifting devices, spinning hammers etc. as weapons with following exceptions and limitations:</item>
+			<item> 1. Liquid projectiles.</item>
+			<item> 2. Any kind of inflammable liquid.</item>
+			<item>3. Flame-based weapons.</item>
+			<item>4. Any kind of explosive or intentionally ignited solid or potentially ignitable solid.</item>
+			<item>5. Nets, tape, glue, or any other entanglement device.</item>
+			<item>6. High power magnets or electromagnets.</item>
+			<item>7. Radio jamming, tasers, tesla coils, or any other high-voltage device.</item>
+			<item>8. Tethered or untethered projectiles.</item>
+			<item>9. Spinning weapons which do not come in contact with the arena at any point of time are allowed. In no case should the arena be damaged by any bot. </item>
+			<item>10. Damage to the arena will lead to direct disqualification.</item>
+			<item>Note: Cutting of controlling wire will lead to direct disqualification of the bot that cuts the wire.</item>
+			<item>Mobility:Methods of mobility include:</item>
+			<item>1. Rolling (wheels, tracks or the whole robot).</item>
+			<item>2. Non-wheeled robots having no rolling elements in contact with the floor and no continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if continuous operation of the drive motor(s) produces continuous motion of the robot. Linear-actuated legs and novel non-wheeled drive systems come under this category.</item>
+			<item>3. Jumping and hopping is not allowed.</item>
+
+			<item>Battery and Power:</item>
+			<item> 1. The electric voltage between 2 points anywhere in the machine should not be more than 36V DC at any point of time.</item>
+			<item>2. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.</item>
+			<item>3. Use of damaged, non-leak proof batteries may lead to disqualification.</item>
+			<item>4. Special care should be taken to protect the on-board batteries. If judges found that the battery is not properly protected, then team will be disqualified immediately.</item>
+			<item>5. Adapters are allowed. 230v Ac supply will be provided by the coordinators.</item>
+			
+			<item>Pneumatics:</item>
+			<item> 1. Robot can use pressurized non-inflammable gases to actuate pneumatic devices. Maximum allowed outlet nozzle pressure is 10 bar. The storage tank and pressure regulators used by teams need to be certified and teams using pneumatics are required to produce the Safety and Security letters at the Registration Desk at the venue.</item>
+			<item> 2. Participants must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge. Also there should be provision to check the cylinder pressure on the bot. </item>
+			<item>3. The maximum pressure in cylinder should not exceed the rated pressure at any point of time.</item>
+			<item>4. You must have a safe way of refilling the system and determining the on board pressure.</item>
+			<item>5. All pneumatic components on board a robot must be securely mounted. Care must be taken while mounting the pressure vessel and armor to ensure that if ruptured it will not escape the robot. The terms 'pressure vessel, bottle, and source tank' are used interchangeably.</item>
+			<item>6. Entire pneumatic setup should be onboard, no external input (from outside the arena) can be given to the robot for functioning of its pneumatic system.</item>
+			
+			<item>Hydraulics :</item>
+			<item> 1. Robot can use non-inflammable liquid to actuate hydraulic devices e.g. cylinders.</item>
+			<item>2. All hydraulic components on-board must be securely mounted. Special care must be taken while mounting pump, accumulator and armor to ensure that if ruptured direct fluid streams will not escape the robot.</item>
+			<item>3. All hydraulic liquids are required to be non-corrosive and your device should be leak proof.</item>
+			<item>4. Maximum allowed pressure is 10 bars.</item>
+			<item>5. Participant must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge.</item>
+			<item>6. Entire hydraulic setup should be onboard, no external input (from outside the arena) can be given to the robot for functioning of its hydraulic system</item>
+			</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1(The Elimination Round) ">
+				<item>Total time for the match is 10mins.</item>
+				<item>Time will be divided into 5mins each and 3minutes break in between.</item>
+				<item>1. If Bot A immobilizes Bot B for 45sec, then the bot A qualifies for the next round.</item>
+				<item>2. If the bot A pushes bot B to the Point Zone’s (colored), then Bot A wins the points. Note: The bot has to push it completely to the Zones Marked with Points.</item>
+				<item>3. If within the 1st half or the second half, Bot A pushes Bot B for 7 times, then Bot A qualifies for the next round. If the bot A fails to push the bot B out of the zone 7 times in the first half, it won’t be counted in the second half, only points will be added. For second half, there will be 5 chances to Bot B to save itself.</item>
+				<item>4. At the end of 10mins, if no bot is immobilized, then the bot scoring maximum points on totaling both will be winner.</item>
+			</round>
+			<round name="Round 2 (THE FINALS)">
+				<item>Scoring points in the finals will be declared after round 1 to the qualifiers.</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Prof. Arun Pradhan</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Shashank Agarwal</name>
+				<number>8908508600</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>7000(Heavy weight)</item>
+			<item>1st 5000  2nd  4,000 (Light Weight)</item>
+		</event-prize>
+	</event>
+
+	<event event-id="5">
+		<event-name>Cirkitrix</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">N/A</event-society>
+		<event-clubName name="Club:">Aadishya</event-clubName>
+		<event-info name="About The Event">“Aadishya” a circuit design club of Trident Academy of Technology, Bhubaneswar invites all the designers to technical fest “UDAYAN-2015” to participate in the circuit design competition “CIRKITRIX-II” a design challenger. </event-info>
+		<event-image>images/etc/5/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>Teams of two members can only participate</item>
+			<item>There will be total 4 rounds.</item>
+			<item>First round will be elimination round with objective type questions from the fields of very basic electronics/circuit and components.</item>
+			<item>Second round will be “PRO IT” round of designing circuit and simulation in PROTEUS. </item>
+			<item>Third round “BUILD IT” round of building the circuit on breadboard.</item>
+			<item>Fourth round “MAKE IT” round will be the final round in which student have to build the circuit in blank PCB.</item>
+			<item>Students will be instructed about the use of software and hardware in required rounds.</item>
+			<item>The software and material required for the circuit will be provided by us.</item>
+			<item>Contestants may either contact event coordinators for any query or registration.</item>
+			<item>Students may also register on the spot for the event.</item>
+			<item>Judging Criterion: Design of circuit (10), Desired output (10) , Neatness of the implemented circuit(10).
+			</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1 (I Square R)">
+				<item> 	Elimination round consisting of 30 MCQs relatedto very basic electronics/circuit and components.  	
+				</item>
+				<item>There may have some puzzles related to electronics within MCQ.</item>
+				<item>Question sheets will be provided to the registered teams on a particular time. </item>
+				<item>They will have 20 minutes to answer the questions and submit the answer sheets. </item>
+				<item>Answers have to be written on the same sheet.</item>
+				<item>There may be negative marking in some questions.</item>
+				<item>Details will be specified in question sheet.</item>
+				<item>Sheets must be submitted within the time limit.</item>
+				<item>No sheets will be accepted after the dead line.</item>
+				<item>Submitting the sheet early will benefit the team as time bonus.</item>
+				<item>Time bonus will be considered for tie-breaking between two or more teams. </item>
+				<item>Contestants with best score will be selected for the next round.</item>
+			</round>
+
+
+			<round name="Round 2(DESIGN IT)">
+				<item> 	There will be abox with some coupons with circuit designed on it.
+				</item>
+				<item>The contestant will choose any coupon.</item>
+				<item>The contestants are supposed to identify the given circuit.</item>
+				<item>After the identification they are suppose to write the details of the circuit within the given time limit.</item>
+				<item>The details include proper identification of the components used in the circuit,working of the circuit etc.</item>
+				<item>There will be time bonus as well.</item>
+				<item>Correct identification of the circuit together with the components used and aptness of the details about the circuit provided by the contestants.</item>
+				<item>In this round the contestant has to simulate the same circuit given in round 2 via proteus-7.1/8.0</item>
+				<item>Contestants will be demonstrated about the software before design.</item>
+			</round>
+			<round name="Round 3 (BUILD IT)">
+				<item> 	In this round contestants are supposed to work with real looking components and devices.
+ 				</item>
+				<item>The contestants have to design a real circuit given in round 2 on breadboard.</item>
+				<item>There will be time bonus as well.</item>
+			</round>
+			<round name="Round 4 (MAKE IT)">
+				 <item> 	In this round contestants are supposed to work with real looking components and devices and implementing it in blank PCB.
+				</item>
+				 <item>The contestants have to design a real circuit given in round 3 on blank PCB.</item>
+				 <item>The contestants who will successfully make the circuit on blank PCB will be awarded as winner.</item>
+			</round>
+		</event-rounds>
+
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Lalit Kumar Kanoje</name>
+				<number>7205849567</number>
+				<name>Annapurna Pradhan</name>
+				<number>9237945947</number>
+				<name>Nibedita Pati</name>
+				<number>9861577993</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Aman Kumar (4th Year)(Event Head)</name>
+				<number>9937005951</number>
+				<name>Debaprasad Ghosh (4th Year)</name>
+				<number>000000000</number>
+				<name>Satyajit Mohapatra(3rd yr)</name>
+				<number>8260523094</number>
+								
+
+			</students>
+		</event-coordinators>
+
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="6">
+		<event-name>Netwars</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Hetnet</event-clubName>
+		<event-info name="About The Event">This is a technical event with added fun to attract the students. In this event the participant will explore their creativity and will have fun painting them.</event-info>
+		<event-image>images/etc/6/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			N/A
+     	</event-rules>
+		<event-rounds name="Rounds (MCQ)">
+			<round name="Round 1">
+				<item>Multiple Choice Questions based on Heterogeneous Networks.</item>
+			</round>
+			<round name="Round 2 (Picture Prediction)">
+				<item>A network related image will be shown in the PC.</item> 
+				<item>Participant have to use their creativity and do the drawing in paper.(Drawing must not be same as shown)</item>
+				
+			</round>
+			<round name="Round 3(Fun+Technical Round)">
+				<item>They will be given some balloons in the pot, and some papers are there in the balloons.</item>
+				<item>Each paper contains a keyword, so in order to find the keyword they need to pump the balloon.</item>
+				<item>Once they have found the keyword they have to draw a keyword related image on it within a particular time limit.</item>
+				<item>They best drawing wins</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Sumant Kumar Mohapatra</name>
+				<number>9861126251</number>
+				<name>Biswa Ranjan Swain</name>
+				<number>9439365560</number>
+			</teachers>
+
+			<students name="Student Coordinators:">
+				<name>Sumitghosh(4th year)(Event head)</name>
+				<number>8598805817</number>
+				<name>RishuJha(4th year)</name>
+				<number>9776300317</number>
+				<name>Ankita (3rd year)</name>
+				<number>0000000</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+
+
+	<event event-id="7">
+		<event-name>Embedfrenzy</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Micron</event-clubName>
+		<event-info name="About The Event">
+			This event is truly based on the technical as well as fundamental knowledge in the field of electronics.
+			Participants are judged on the basic of their theoretical as well as practical knowledge.
+			There are different fun activities in this event that not only makes the event interesting but also helps the participants in enhancing their fundamental skills.
+		</event-info>
+		<event-image>images/etc/7/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+				N/A
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1 (Letr us See)">
+				<item>This is basically a question answer round. In this round participants have to solve 30 questions in 30 minutes</item>
+			</round>
+			<round name="Round 2">
+				<item>Before coming to the round 2, participants who have cleared the 1st round have to collect the presentation topic for the 2nd round.</item>
+				<item>participants will be provided with a list of the different pictorial   representation of the electronics components. They have to write the perfect name for those pictures.</item>
+				<item>Participants have to give Power-Point presentation on the given topic in a slide limit of 12. (Format of the slide: - Front Page, Content, description of the topic, Suggestion/Future Scope &amp;Conclusion).</item>
+
+			</round>
+			<round name="Round 3 (Let’s get back to work)">
+				<item>After the analysis of the previous two stages, the true engineers will make the seat for the final round.</item>
+				<item>In this round participantswill be provided with a demo class on particular software and provided with an assignment at the end of the class.</item>
+				<item>One, who clears it first in a most efficient manner, will be chosen as a WINNER.</item>
+			</round>
+
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof. Millee Panigrahi</name>
+				<number>9861384420</number>
+				<name>Asst. Prof. Lalit Kumar Kanoje</name>
+				<number>7205849567</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Ayush(4th yr)(Event Head)</name>
+				<number>7749995022</number>
+				<name>Rahul Bose(4th yr)</name>
+				<number>8337934744</number>
+				<name>Debasis Panda(4th yr)</name>
+				<number>9439538517</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="8">
+		<event-name>Mockchazers</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Mocnet</event-clubName>
+		<event-info name="About The Event"> The MOCNET(A Technical Club Of Mobile Computing &amp; Networks) is going to organize an event "MOKCHAZERS" in the TECHFEST 2017</event-info>
+		<event-image>images/etc/8/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>For MOKCHAZERS event, the participants should prepare topic such as :
+			Mobile radio standards &amp; generations- features, types &amp; devices.</item>
+			<item>GPRS, GSM, UMTS- Features</item>
+			<item>Types of wireless communication systems- feature &amp; block diagram.</item>
+			<item>Wireless LAN (Infrastructure &amp; Ad-hoc networks)-Features, merits/demerits, architecture</item>
+			<item>Wireless PAN (Bluetooth, Zigbee)- Version features, device class, frequency spectrum, network topologies, architecture &amp; applications.</item>
+			
+     	</event-rules>
+
+		<event-rounds name="Rounds">
+			<round name="Round 1 (MOCKWRITING)">
+				<item>In this stage 20 numbers of multiple choice questions will be asked. Each question carries ‘1’ mark.</item>
+			</round>
+			<round name="Round 2 (MOCPIC)">
+				<item>The topics involved for this stage  is mentioned in rules.</item>
+				
+			</round>
+			<round name="Round 3 (MOCFIN)">
+				<item>Participant of the final round have to sketch an wireless LAN architecture of Block-3,4 or TAT campus.</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asso.Prof .RabindraBhojray</name>
+				<number>9778164609</number>
+				<name>Asst. Prof. Ramya Ranjan Choudhury</name>
+				<number>9937339122</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Amrita Das(4th year)(Event Head)        
+				</name>
+				<number>8018193553</number>
+				<name>Ansu kumara Yadav (4th year)</name>
+				<number>000000000</number>
+				<name>SheetalMohapatra   (3rd year)</name>
+				<number>000000000</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="9">
+		<event-name>Sigtrix</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Sigmage</event-clubName>
+		<event-info name="About The Event">This is a technical event with added fun to attract the students. In this event the participant will explore their creativity and will have fun painting them.</event-info>
+		<event-image>images/etc/9/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>In First round there will be questions from the above mentioned topics and the difficulty level of the question varies with different semesters.</item>
+			<item>In Second round certain problems will be written in piece paper where the contestant will choose one of it and solve those problems with the help of  Labview software. Like the  above round in this also the difficulty level varies with the level of semester.</item>
+			<item>This round consists of one to one question answer on the above mentioned topics and there may be some acts to do and the one who will be able to do the above activity with perfection will  win the cash prize.</item>
+			<item>All the activities done in all the rounds will help to enhance will knowledge with honing your skills.</item>
+			<item> A small training will be given to those who do not about the Labview software before starting of the round so that all will be acquainted with the software.</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Multiple Choice Questions based on Electronics, Signals, Images and puzzles.</item>
+			</round>
+			<round name="Round 2">
+				<item>Solving different expression and series and drawing them on the Labview software</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Technical Round</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Satya Naryan Rath</name>
+				<number>9861126251</number>
+				<name>MdRizwan Khan</name>
+				<number>9439365560</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>. MousumDas(4th year)(Event head)</name>
+				<number>9776718388</number>
+				<name>Priya Sharma(4th year)</name>
+				<number>9776295855</number>
+			
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+
+	<event event-id="10">
+		<event-name>Junkyard</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a fun event to attract the students. In this event the participant will explore their creativity and will have fun along with different exciting event rounds.</event-info>
+		<event-image>images/etc/10/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>N/A</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item> Round 1: Quiz competition</item>
+			</round>
+			<round name="Round 2">
+				<item>In this round participant have to do some task. And finally after collecting all the pieces they have to solve the puzzle.</item>
+				<item> In that task puzzles will be given to each team and they have to search for all the pieces of puzzle which will be in different places with the given clue.</item>
+				<item>Those participant who complete the task in less time will be qualified for next round.</item>
+			</round>
+			<round name="Round 3">
+				<item>In this round the participant will have to make something innovative craft having some theme using the given junk items.</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Rina Mahakud</name>
+				<number>000000000</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Sanjib Mohanty(4th  year)  event head</name>
+				<number>7504114533</number>
+				<name>Nitya Kumara(4th year)</name>
+				<number>7502509079</number>
+				<name>Ratan Mandal(4th year)</name>
+				<number>7873361455</number>
+				<name>Manasweta Mohanty(4th year)</name>
+				<number>8908900929</number>
+				<name>Lopamundra Sethi(3rd year)</name>
+				<number>000000000</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+
+
+	<event event-id="11">
+		<event-name>Mock CID</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">It is an event where students have to paticipate in groups. The group should be of 3 members. This fun game will help the students to develop team spirit, learn to handle pressure and to know and develop their own skills apart from studies.</event-info>
+		<event-image>images/etc/11/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>N/A</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Comiendo( Eating ) Round</item>
+			</round>
+			<round name="Round 2">
+				<item>La Habilidad Test ( Skill Test )</item>
+			</round>
+			<round name="Round 3">
+				<item>SamjhoAurDhundo</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof. Sk. Mohammed Ali</name>
+				<number>9938429992</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>DeepshikhaBhakat – 4thyr( Event Head )</name>
+				<number>9776297755</number>
+				<name>Anisha Pradhan - 4thyr</name>
+				<number>8763939990</number>
+				<name>BivasisNayak – 4thyr</name>
+				<number>7809923875</number>
+				<name>Saumik Jena – 3rdyr</name>
+				<number>0000000</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2500</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+
+
+	<event event-id="12">
+		<event-name>Paper Presentation</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">It is a fun filled event that will help the students to develop team spirit, learn to increase their presentation skills. It’s a full package for overall development of students apart from studies.</event-info>
+		<event-image>images/etc/12/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>N/A</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Paper Telephone (Team Work)</item>
+			</round>
+			<round name="Round 2">
+				<item>Paper Presentation on Given Topic( Skill Test )</item>
+			</round>
+			<round name="Round 3">
+				<item>Pick &amp; Present (Spontaneous)</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof. S.N. Rath</name>
+				<number>9437509399</number>
+				<name>Asst. Prof. Rizwan Khan </name>
+				<number>9861072862</number>
+
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Shubhashree Ray ( Event Head )</name>
+				<number>8018641776</number>
+				<name>Diksha</name>
+				<number>9776298666</number>
+				<name>Tumpa Mandal</name>
+				<number>7504881090</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2500</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+
+	<event event-id="13">
+		<event-name>Photography And Selfie</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a Fun Event</event-info>
+		<event-image>images/etc/13/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>Ad- Selfie </item>
+			<item>Round 1 :- Solving puzzles</item> 
+		<item>Round 2 :- Advertising a Brand or a Cause</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item> Solving puzzles for photography</item>
+			</round>
+			<round name="Round 2">
+				<item>Identification and arranging the photograph</item>
+				
+			</round>
+			<round name="Round 3">
+				<item>Capturing photos</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof R.R Choudhary </name>
+				<number>7873501420</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>VadiniGurbaxani (Event Head)</name>
+				<number>7205390477</number>
+				<name>Shilpayan Dasgupta</name>
+				<number>7978338494</number>
+				<name>Neha Kumari</name>
+				<number>9124101671</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>1500</item>
+			<item>750</item>
+		</event-prize>
+	</event>
+
+	<event event-id="14">
+		<event-name>Takeshis Castle</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">A large range of challenges were used throughout the history of Japanese game show “TAKESHIS CASTLE”, some occurring only once or twice or others in virtually every show, depending on their popularity and ease of preparation. Many challenges involve falling into water and mud and playing with presence of mind and body strength and team work. </event-info>
+		<event-image>images/etc/14/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>N/A</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Quiz basically from simple general knowledge.</item>
+			</round>
+			<round name="Round 2">
+				<item>The whole team needs to scatter throughout the college campus and find 10 differently shaped leaf and then come back to the initial spot and collect required items for further step i.e. make anything very innovative and beautiful out of those leaves with an A4 size sheet and only 2 colors. </item>
+				<item>The best will be forwarded for the very next enthusiastic round of the second day.</item>
+			</round>
+			<round name="Round 3">
+				<item>Player 1 will run to the player 2 from the decided spot and release the second player whose hands will entangled with a rope and locked with a lock.</item>
+				<item>Further the second player will crawl to third and release the third one too and then the third one needs to run to player 1”s initial spot and give a hi5 .</item>
+				<item>The tem completing task in minimum time will be sent for next round.</item>
+			</round>
+			<round name="Round 4">
+				 <item>MAZE round- Player 1 will step into maze blindfolded and will be guided by player 2 and on completion both need to find the key from the small mud tub by getting into it and after finding the key releasing the third.</item>
+				 <item>The team with least time count will be forwarded for final round.</item>
+			</round>
+			<round name="Round 5">
+				<item>Player 1-speak continuously for 50 seconds, after completion player 2 will hop towards player 3.</item>
+				<item>Then all three will settle themselves for “”color ball collection” game.</item>
+				<item> One will hold 1 ball at a time in mouth and pass it on to second and second will pass to third and third will throw ball into buckets and repeat till timer of 5 minute ends.</item>
+				<item>Then accordingly the winner will be selected.</item>
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Lalit kumarkanoje</name>
+				<number>7205849567</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manisha Pradhan (4thyear)(Event head)</name>
+				<number>7749926732</number>
+				<name>Payalpriyadarshini(4th year)</name>
+				<number>9090067599</number>
+				<name>Pratyush singh(4th year)</name>
+				<number>9658148110</number>
+				<name>Santashjena(4th year)</name>
+				<number>7749995070</number>
+				<name>SanketPramanik(3rd year)</name>
+				<number>00000000</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>4000</item>
+			<item>3500</item>
+		</event-prize>
+	</event>
+
+	<event event-id="15">
+		<event-name>Treasure Hunt</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">A treasure hunt is one of many different types of games with one or more players who try to find hidden objects or places by following a series of clues. Treasure hunt games may be an indoor or outdoor activity. Outdoors they can be played in a garden or the treasure could be located anywhere around the world.</event-info>
+		<event-image>images/etc/15/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>No of members in each team : 4 (atleast one girl and one boy in each team in compulsory)</item>
+			<item>Any team that is not ready at the time specified will be disqualified from the event.</item>
+			<item>Members participating in the event, as a condition of their participation, adhere to the standards of good conduct, fair play and sportsmanship.</item>
+			<item>Event Head reserve the right to disqualify any team indulging in misbehavior or violating any rules.</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1 ( BHABUTHA LO JHIYA BHABUTHA… (Brain teaser))">
+				<item>A brain teaser is a form of puzzles that requires thought to solve. It often requires thinking in unconventional ways with given constraints in mind; sometimes it also involves lateral thinking, logic puzzles and riddles are specific types of brain teasers.</item>
+				<item>In this game a GIRL will be representing her team as a captain.</item>
+				<item>She will be given some brain teasing task which has to be completed with the help of her team members.</item>
+				<item>Team should complete their task as soon as possible to get safe from elimination.</item>
+			</round>
+			<round name="Round 2 (PUNTU NANA NKA PETA YATRA…. (Food Mania))">
+				<item>In this round, you will be given some food stuffs to eat it as soon as you can.… P.S: DON’T TAKE IT EASY!!!!!!</item>
+			</round>
+			<round name="Round 3 (TU KHHICH MERI PHOTO….)">
+				<item>Now the fun begins…… (Group task)</item>
+			</round>
+			<round name="Round 4 (TICKET TO FINALE)">
+				<item>A task that takes you to the finale……. (Group task)</item>
+			</round>
+			<round name="Round 5 (KHAJANE KI KHOJ (Finale))">
+				<item>Hunt the treasure….IT’S FINALE!!!</item>
+			</round>
+
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>ASST. PROF. B.R. SWAIN</name>
+				<number>00000000</number>
+				<name>ASST. PROF. ANNAPURNA PRADHAN</name>
+				<number>00000000</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Nayanika P.Panigrahi(Event Head)etc 4th yr</name>
+				<number>7205546547</number>
+				<name>SWEET SWAGATIKA - ETC,4TH YR</name>
+				<number>7381334344</number>
+				<name>SABA JABEEN - ETC,4TH YR</name>
+				<number>7205718274</number>
+				<name>SOURAV KUMAR - ETC,4TH YR</name>
+				<number>8260997450</number>
+				<name>ABHIRUP SANKAR - ETC,3RD YR</name>
+				<number>000000</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>3000</item>
+			<item>2000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="16">
+		<event-name>Udayan Got Talent</event-name>
+		<event-branch name="Branch:">ETC</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event"> A talent show can be a great way to showcase your students, build their confidence, and bring your community together. It’s a fun-filled event that appeals to all the students.</event-info>
+		<event-image>images/etc/16/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>This talent competition will comprise of the following events:1.Dance </item>
+			<item>Music(singing, instrument play, etc.)</item>
+			<item>Monoacting</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				N/A
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof. MilleePanigrahi</name>
+				<number>0000000</number>
+				<name>Asst.  Prof. Rina Mahakud</name>
+				<number>000000</number>
+				<name>Asst. Prof. PranatiMahapatra</name>
+				<number>0000000</number>
+				<name>Dr. R.N Sathpathy(ED)</name>
+				<number>0000000</number>
+				
+
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Neha Singh-ETC  4th year()(EVENT HEAD)</name>
+				<number>9776302396</number>
+				<name>Nikee Jena-4thyear</name>
+				<number>8984663164</number>
+				<name>Dinesh Panigrahi-4thyear</name>
+				<number>9583313392</number>
+				<name>Archana Pradhan-4th year</name>
+				<number>00000000</number>
+				<name>Dilip Mahapatra-3rd year</name>
+				<number>0000000</number>
+				
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>4000</item>
+			<item>2000</item>
+		</event-prize>
+	</event>
+</etc>

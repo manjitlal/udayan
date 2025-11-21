@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%;">
+<head>
+	<title>Udayan Events</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css" />
+	<link rel="stylesheet" type="text/css" href="css/loader.css" />
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/events.css" />
+	<link rel="stylesheet" type="text/css" href="css/hover.css" />
+	<script type="text/javascript" src="jquery/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<style type="text/css">
+		#contents, #main-container, #main-row {
+	height: 100%;
+}
+#main-row {
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+}
+#navigation-bar {
+	height: 52px;
+	z-index: 1;
+}
+#main-content-area {
+	height: calc(100% - 52px);
+	overflow-x: auto;
+	overflow-y: auto;
+}
+#main-content-area-column {
+	height: 100%;
+}
+.panel {
+	border: 2px solid black;
+	margin-top:-6%;
+	text-align: center;
+	background: none;
+	color: greenyellow;
+	font-family: verdana;
+	font-weight: bolder;
+    font-size:42px;
+}
+.footer {
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color:white;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 16px;
+    font-family: verdana;
+}
+	</style>
+</head>
+<body class="height">
+	<!-- Loader Start -->
+	<div id="loader"></div>
+	<script type="text/javascript" src="js/loader.js"></script>
+	<!-- Loader End -->
+
+	<!-- Visible Page Starts -->
+	<div id="contents">
+		<div class="container-fluid" id="main-container">
+			<div class="row" id="main-row">
+				<div id="navigation-bar">
+					<div class="col-md-12 no-padding">
+						<!-- Navigation Bar Start -->
+						<nav class="navbar navbar-inverse no-margin-bottom">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavBar">
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<a href="index.html" class="navbar-brand">Udayan 2k17</a>
+								</div>
+								<div class="collapse navbar-collapse" id="mainNavBar">
+									<ul class="nav navbar-nav">
+										<li>
+											<a href="index.html" class="hvr-sweep-to-right">Home</a>
+										</li>
+										<li class="active">
+											<a href="event.html" class="hvr-sweep-to-right">Events</a>
+										</li>
+										<li>
+											<a href="gallery.html" class="hvr-sweep-to-right">Gallery</a>
+										</li>
+										<li>
+											<a href="#" class="hvr-sweep-to-right">Sponsers</a>
+										</li>
+										<li>
+											<a href="team.html" class="hvr-sweep-to-right">Team</a>
+										</li>
+										<li>
+											<a href="registration.html" class="hvr-sweep-to-right">Register</a>
+										</li>
+										<li>
+											<a href="about_us.html" class="hvr-sweep-to-right">About Us</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<!-- Navigation Bar End -->
+					</div>
+				</div>
+				<div id="main-content-area" style="background-image: url('images/event/bg.jpg');
+					">
+					<div class="col-md-12" id="main-content-area-column">
+						<!-- <div>
+   							<img src="images/bg1.jpg">
+ 						</div> -->  
+ 						<div class="island1">
+   							<a href="branch.html?event-branch=mech"><img src="images/legendary/mech.png" class="img-responsive" style="width: 150px;"/></a>
+ 						</div>
+ 						<div class="island2">
+   							<a href="branch.html?event-branch=eee"><img src="images/legendary/eee.png" class="img-responsive" style=";width: 150px;"/></a>
+ 						</div>
+ 						<div class="island3">
+   							<a href="branch.html?event-branch=ee"><img src="images/legendary/ee.png" class="img-responsive" style="width: 150px;"/></a>
+ 						</div>
+  						<div class="island4">
+   							<a href="branch.html?event-branch=cse"><img src="images/legendary/cse.png" class="img-responsive" style="width: 150px;"/></a>
+ 						</div>
+  						<div class="island5">
+   							<a href="branch.html?event-branch=civil"><img src="images/legendary/civil.png" class="img-responsive" style="width: 150px;"/></a>
+ 						</div>
+ 						<div class="island6">
+   							<a href="branch.html?event-branch=etc"><img src="images/legendary/etc.png" class="img-responsive" style="width: 150px;"/></a>
+ 						</div>
+ 						<div class="col-sm-offset-4 col-sm-4 panel">
+   							<h3>PICK YOUR POKEMON</h3>
+ 						</div>
+ 					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+	<!-- Visisble Page Ends -->
+</body>
+</html>

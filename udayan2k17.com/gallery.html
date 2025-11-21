@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gallery</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="css/loader.css" />
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" href="css/team.css" type="text/css">
+    <link rel="stylesheet" href="css/hover.css" type="text/css">
+    <script type="text/javascript" src="jquery/jquery-3.1.1.min.js"></script>
+    <script src="js/wow.min.js"></script>
+     <script src="js/wow.js"></script>
+     <script type="text/javascript" src="js/gallery.js"></script>
+     <script type="text/javascript" src="js/bootstrap.min.js"></script>
+</head>
+<body>
+<!-- Loader Start -->
+  <div id="loader"></div>
+  <script type="text/javascript" src="js/loader.js"></script>
+  <!-- Loader End -->
+
+  <div id="contents">
+<nav class="navbar navbar-inverse no-margin-bottom">
+              <div class="container-fluid">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavBar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a href="index.html" class="navbar-brand">Udayan 2k17</a>
+                </div>
+                <div class="collapse navbar-collapse" id="mainNavBar">
+                  <ul class="nav navbar-nav">
+                    <li>
+                      <a href="index.html" class="hvr-sweep-to-right">Home</a>
+                    </li>
+                    <li>
+                      <a href="events.html" class="hvr-sweep-to-right">Events</a>
+                    </li>
+                    <li class="active">
+                      <a href="gallery.html" class="hvr-sweep-to-right">Gallery</a>
+                    </li>
+                    <li>
+                      <a href="#" class="hvr-sweep-to-right">Sponsers</a>
+                    </li>
+                    <li>
+                      <a href="team.html" class="hvr-sweep-to-right">Team</a>
+                    </li>
+                    <li>
+                      <a href="registration.html" class="hvr-sweep-to-right">Register</a>
+                    </li>
+                    <li>
+                      <a href="about_us.html" class="hvr-sweep-to-right">About Us</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+     <h1 style="text-align: center;margin-top: 50px;">Gallery</h1>
+     <div class="container-fluid">
+     	<div class="col-sm-2 borders left" style="overflow-y: scroll;max-height:590px;">
+     		<img src="images/gallery/left1.jpg" class="img-responsive img-thumbnail l1" height="240" width="240">
+     		<img src="images/gallery/left2.jpg" class="img-responsive img-thumbnail l2" height="240" width="240">
+            <img src="images/gallery/left3.jpg" class="img-responsive img-thumbnail l3" height="240" width="240">
+            <img src="images/gallery/left4.jpg" class="img-responsive img-thumbnail l4" height="240" width="240">
+            <img src="images/gallery/left5.jpg" class="img-responsive img-thumbnail l5" height="240" width="240">
+            <img src="images/gallery/left6.jpg" class="img-responsive img-thumbnail l6" height="240" width="240">
+
+     	</div>
+     	<div class="col-sm-8 borders middle">
+            <img src="images/gallery/left1.jpg" class="img-responsive">
+     	</div>
+     	<div class="col-sm-2 borders right" style="overflow-y: scroll;max-height:590px;">
+            <img src="images/gallery/right1.jpg" class="img-responsive img-thumbnail r1" height="240" width="240">
+            <img src="images/gallery/right2.jpg" class="img-responsive img-thumbnail r2" height="240" width="240">
+            <img src="images/gallery/right3.jpg" class="img-responsive img-thumbnail r3" height="240" width="240">
+            <img src="images/gallery/right4.jpg" class="img-responsive img-thumbnail r4" height="240" width="240">
+            <img src="images/gallery/right5.jpg" class="img-responsive img-thumbnail r5" height="240" width="240">
+            <img src="images/gallery/right6.jpg" class="img-responsive img-thumbnail r6" height="240" width="240">
+     	</div>
+     </div>
+     <div class="footer">
+   All &#169; Reserved To Udayan 2017<br>
+   Website is devloped by Manjit, Sarvesh, Ranjan, Sai.
+ </div>
+</div>
+</body>
+<style>
+	.borders
+	{
+		//border: 2px solid green;
+		height: 100%;
+	}
+    .left
+    {
+        direction: rtl;
+    }
+    .left img,.right img
+    {
+        border-radius: 8px;
+    }
+	.left img:hover,.right img:hover
+	{
+      border:3px solid black;
+      transform:scale(0.9); 
+	}
+    .middle
+    {
+        padding-left:30px;
+    }
+    .middle img
+    {
+        border: 24px solid black;
+        border-radius:50px;
+        height: 560px;
+        width: auto;
+    }
+    .footer
+  {
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color:white;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 16px;
+    font-family: verdana;
+  }
+</style>
+</html>

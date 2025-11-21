@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ee>
+	<event event-id="1">
+		<event-name>Thunder Run</event-name>
+		<event-branch name="Branch:">EE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a Gaming Event which is coordinated by electrical branch. There are three rounds that is Round-1, Round-2&amp; Round-3.  </event-info>
+		<event-image>images/ee/1/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>N/A</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>In round -1 there is a game with bucket and ice.</item>
+			</round>
+			<round name="Round 2">
+				<item>In round-2 there is a game of brick and ice.</item>
+			</round>
+			<round name="Round 3">
+				<item> In round-3 there is a game using plastic balls, clay pots and red chili powder.</item>
+			</round>
+			
+
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>SATYASUNDAR  MISHRA</name>
+				<number>00000000</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>S.K Md Tanwir Islam(Event head)</name>
+				<number>8763897850</number>
+				<name>Debasmita Jena</name>
+				<number>7008531567</number>
+				<name>Mamta Sahoo</name>
+				<number>7205222363</number>
+				<name>Sourav kumar Pani</name>
+				<number>9658309552</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>3000</item>
+			<item>2000</item>
+		</event-prize>
+	</event>
+
+
+	<event event-id="2">
+		<event-name>Technoblast</event-name>
+		<event-branch name="Branch:">EE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a technical Event which is coordinated by  electrical branch. There are three rounds that is Round-1, Round-2&amp; Round-3.</event-info>
+		<event-image>images/ee/2/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>N/A</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>In round -1 there is some questions have to be solved by the participants.
+				</item>
+			</round>
+			<round name="Round 2">
+				<item>
+			 In second round participants have to design bridge circuit by necessary electrical equipments.
+			    </item>
+			 </round>
+			 <round name="Round 3">
+			 	<item>
+			  After that in third round a switch board connection have to be performed by the participants.
+				</item>
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Mr. NADEEM IQBAL (EE)</name>
+				<number>000000000</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Biswajit Senapati(Event head)</name>
+				<number>7749995609</number>
+				<name>Debanshu Shial</name>
+				<number>7749043444</number>
+				<name>Vivek Mandal</name>
+				<number>8093479992</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="3">
+		<event-name>Energy quiz</event-name>
+		<event-branch name="Branch:">EE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Energy Audit club</event-clubName>
+		<event-info name="About The Event">This is a Club Event</event-info>
+		<event-image>images/ee/3/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>This is a team event in which each team will consist of two members.It has two rounds.Round 1 is an elimination round from which 4 teams will be selected for Round 2.</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Written Test(Objective):Based on Aptitude,Reasoning,Renewable Energy,General Aspects of energy management and energy audit.(14/02/2017) </item>
+			</round>
+			<round name="Round 2">
+				<item>This is the final round.Questions will be from the areas of energy management and energy audit,renewable energy,ECBC(Energy Conservation Building Codes),BEE schemes for energy savings,general idea about lighting system efficiency and HVAC systems.(15/02/2017)</item>
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>SUSHMITA DAS</name>
+				<number>9778627008</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>MILAN KUMAR DAS</name>
+				<number>9777174152</number>
+				<name>GYANARANJAN PRADHAN</name>
+				<number>8984415924</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+</ee>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sidebar-content>
+	<cse>
+		<item>Branch: CSE &amp; IT</item>
+		<item>Society: I-Geek Society</item>
+		<item>HOD: Satya Ranjan Biswal (CSE)</item>
+		<item>HOD: Nani Gopal Das (IT)</item>
+		<item>Events: 16</item>
+		<item>40000</item>
+	</cse>
+	<eee>
+		<item>Branch: EEE</item>
+		<item>Society: N/A</item>
+		<item>HOD: XXX</item>
+		<item>Events: 9</item>
+		<item>25000</item>
+	</eee>
+	<etc>
+		<item>Branch: ETC</item>
+		<item>Society: N/A</item>
+		<item>HOD: XXX</item>
+		<item>Events: 17</item>
+		<item>35000</item>
+	</etc>
+	<ee>
+		<item>Branch: EE</item>
+		<item>Society: N/A</item>
+		<item>HOD: XXX</item>
+		<item>Events: 2</item>
+		<item>20000</item>
+	</ee>
+	<mech>
+		<item>Branch: MECHNICAL</item>
+		<item>Society: N/A</item>
+		<item>HOD: XXX</item>
+		<item>Events: 7</item>
+		<item>30000</item>
+	</mech>
+	<civil>
+		<item>Branch: CIVIL</item>
+		<item>Society: N/A</item>
+		<item>HOD: XXX</item>
+		<item>Events: 2</item>
+		<item>15000</item>
+	</civil>
+	<details>
+		<item>Event</item>
+		<item>Info</item>
+		<item>Rules</item>
+		<item>Rounds</item>
+		<item>Coordinator</item>
+		<item>Prize</item>
+	</details>
+</sidebar-content>

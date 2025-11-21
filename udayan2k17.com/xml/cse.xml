@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cse>
+	<event event-id="1">
+		<event-name>Brain Wave</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">Programming</event-clubName>
+		<event-info name="About The Event">This is a club event</event-info>
+		<event-image>images/cse/1/</event-image>
+		<event-website name="Website:">https://www.programmingclub.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Rules And Regulations:</item>
+			<item>1. No Discussion are allowed during competition</item>
+			<item>2. Use of any programming compiler is strictly prohibited. If found guilty directly disqualified from the event no further entertainment.</item>
+			<item>3. All the events are timer based and monitored by event co-ordinator. Participant should be reach in time during start of the event.</item>
+			<item>4. Use of the mobile is prohibited.</item>
+			<item>5. Students are required to have domain knowledge in C, C++, Data Structure, Basic knowledge of cloud computing and basic computer fundamentals.</item>
+			<item>6. Every right answer carries 5 credits point and every wrong answer deducts some credits.</item>	
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1 (CHATTER BOX)">
+
+				<item>Enough you got scolded at home because of texting and using your phone so much.</item>
+				<item>We are here to reward you on the world’s most trending language “The Texting Shorthand”.</item>
+				<item>Feel free to say us U instead of YOU.</item>
+				<item>We provide you a paragraph and participants need to shorten that to earn “credits”. </item>
+				<item>Being compact will earn more and more “credits” and qualify for next round.</item>
+				<item>Duration: 10 Minutes</item>
+			</round>
+
+			<round name="Round 2 (Code Jumbling)">
+				<item>On completion of first level all qualified contestants will be upgraded for this level.</item>
+				<item>All the participants for this round will be given a program totally jumbled in paragraph mode.</item>
+				<item>Try to rearrange the instructions without any IDE to get certain output. Write his/her output after the rearrangement.</item>
+				<item>Duration: 30 Minutes</item>
+			</round>
+
+			<round name="Round 3 (QuizBee)">
+				<item>
+				This round is a multiple choice based questionnaire having 20 questions covering different areas of computer science.
+				</item>
+				<item> Output questions from C, C++ and applications based on these languages also Data Structure applications will be focussed on designing questions.</item>
+				<item>Duration : 30 Minutes</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof. Rahul Ranjan</name>
+				<number>9437920600</number>
+				<name>Asst. Prof. Sudhansu Ranjan Lenka</name>
+				<number>9937245866</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Rishabh Kumar</name>
+				<number>7205530238</number>
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+				<name>Sarvesh Pathak</name>
+				<number>9439080490</number>
+				<name>Satyabrata Moohanty</name>
+				<number>8895834076</number>
+				<name>Rishav Kumar</name>
+				<number>8434635752</number>
+				<name>Abhisek Kumar Singh</name>
+				<number>9937493338</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="2">
+		<event-name>MOBILITY</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">Mobility</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/2/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on C, C++, Java, Html, Android</item>
+			</round>
+			<round name="Round 2">
+				<item>Find output and error</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Aditya Narayan Das</name>
+				<number>9439177066</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Rahul Kumar Saw</name>
+				<number>8908843252</number>
+				<name>Akhil Anand</name>
+				<number>7205467922</number>
+				<name>Tiyasha Mohanty</name>
+				<number>8984570739</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="3">
+		<event-name>IOE</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">IoE</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/3/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Aprajita Jha</name>
+				<number>7873833649</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="4">
+		<event-name>Tech tix</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">Data Science</event-clubName>
+		<event-info name="About The Event">The event will comprise of 2 rounds of which first round will be held on first day, and the second round will be held the following day.</event-info>
+		<event-image>images/cse/4/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1 (Adduce Attack)">
+				<item>Students will enroll either individual or in a group of two members.</item>
+				<item>It tests a range of deductive reasoning skills and how much innovative approach a participant can take to solve the given question or graphical pattern.</item>
+				<item>Time limit : 30 minutes</item>
+				<item>The Qualifying member or group  will go the final round “ Python Perplex”, which will be held the following day.</item>
+			</round>
+			<round name="Round 2">
+				<item>o	Participants will be given different patterns to solve using Language Python and graphics library.</item>
+				<item>Participants will also be given the task to do basic programs using Python.</item>
+				<item>This involves understanding of Python language and logical thinking.</item>
+				<item>Time Limit: 45  minutes</item>
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof. Dayal Kumar Behera</name>
+				<number>9853334495</number>
+				<name>Asst. Prof. Subhra Swetanisha</name>
+				<number>9040972928</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Puja Roy CSE 4th yr </name>
+				<number>7749914701</number>
+				<name>Priyank Raunak CSE 4th yr
+				</name>
+				<number>7205805820</number>
+				<name>Suman Kumar,CSE 4th yr</name>
+				<number>7873305042</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2500</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+
+	<event event-id="5">
+		<event-name>Da Vinci Code</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/5/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Ankit Jena (Event Head)</name>
+				<number>7381276048</number>
+				<name>Minhaz Qadri</name>
+				<number>8260592856</number>
+				<name>Somalin Das</name>
+				<number>7809931406</number>
+				<name>Samikshya Mohanty</name>
+				<number>8908626375</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="6">
+		<event-name>T-Shirt Painting</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a fun event</event-info>
+		<event-image>images/cse/6/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>All colouring materials should be brought by candidate itself.</item>
+			<item>A4 size sheets and T-shirts will be provided for first round and second round respectively.</item>
+			<item>Time limit: 1 hr</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Time limit:1 hr</item>
+				<item>Topic will be given on spot and candidate are asked to draw a design accordingly.</item>
+				<item>Best 8 candidates will move for second round.</item>
+			</round>
+			<round name="Round 2">
+				<item>Time Limit:2 hrs</item>
+				<item>Candidate will be asked to paint a T-shirt </item>
+				<item>Best painting will be choosen as winner</item>
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Sucheta Saraf (Event Head)</name>
+				<number>8260702236</number>
+				<name>Sarvesh Karan</name>
+				<number>7504941061</number>
+				<name>Kumari Akanksha (3rd yr)</name>
+				<number>8984398818</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>3000</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+	
+	<event event-id="7">
+		<event-name>Face Canvas</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/7/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Supriya Nayak (Event Head)</name>
+				<number>7205386454</number>
+				<name>Sangeeta Pramanik</name>
+				<number>9853014462</number>
+				<name>Lalit Nayak</name>
+				<number>7749995009</number>
+				<name>Ajay kumar</name>
+				<number>9040435886</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="8">
+		<event-name>Cruz-O-Mania</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/8/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Subham Panda (Event Head)</name>
+				<number>8984501365</number>
+				<name>Divyasha Dheer</name>
+				<number>9658344183</number>
+				<name>Pratyush Mund</name>
+				<number>7504361359</number>
+				<name>Adhikari Santosh (3rd yr)</name>
+				<number>8984757899</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+
+	<event event-id="9">
+		<event-name>Web Villa</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Web design is the process of creating websites. It encompasses several different aspects, including web page layout, content production, and graphic design.Web design is technically a subset of the broader category of web development.</event-info>
+		<event-image>images/cse/9/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>No pen and paper required
+             </item>
+             <item>Coding will be on desktop
+      		</item>
+      		<item>No need to bring laptops</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Web designing using HTML.</item>
+				<item>Time limit:30 minutes</item>
+			</round>
+			<round name="Round 2">
+				<item>web designing using HTML and CSS.</item>
+				<item>Time limit:90 minutes</item>
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Asst. Prof. Rahul Ranjan</name>
+				<number>9437920600</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Priyanka Kumari (Event Head)</name>
+				<number>7377293569</number>
+				<name>Nitesh Kumar Singh</name>
+				<number>9583105352</number>
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+				<name>Milli Priyam</name>
+				<number>7855078092</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	
+	<event event-id="10">
+		<event-name>Clash Of Clans</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/10/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Sawswat Jena (Event Head)</name>
+				<number>9937777027</number>
+				<name>Soumya Ranjan Lenka</name>
+				<number>9853882920</number>
+				<name>Ashish Ranjan</name>
+				<number>750992729</number>
+				<name>Manoj Kumar Sahoo</name>
+				<number>8908905145</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2500</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+	<event event-id="11">
+		<event-name>NFS</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/11/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Akhil Anand (Event Head)</name>
+				<number>7205467922</number>
+				<name>Saif Ali</name>
+				<number>9658816514</number>
+				<name>Adil Nawaz</name>
+				<number>7504636044</number>
+				<name>Subham Kumar Pandey</name>
+				<number>7539878557</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>3000</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+	<event event-id="12">
+		<event-name>Counter Strike</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/12/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Rohit Shankar Patra (Event Head)</name>
+				<number>7381653623</number>
+				<name>Ranjan Kumar Sahoo</name>
+				<number>8093302846</number>
+				<name>Sumit Panda</name>
+				<number>9658835607</number>
+				<name>Priyank Raunak</name>
+				<number>7205805820</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>6500</item>
+			<item>4500</item>
+		</event-prize>
+	</event>
+	<event event-id="13">
+		<event-name>Mini Militia</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/13/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Soumya Ranjan Mallick (Event Head)</name>
+				<number>9583653817</number>
+				<name>Abhijit Mohanty</name>
+				<number>8093861550</number>
+				<name>Tareni Prasad Nayak</name>
+				<number>8763393449</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>3500</item>
+			<item>2000</item>
+		</event-prize>
+	</event>
+	<event event-id="14">
+		<event-name>DOTA</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/14/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Rishav Kumar Singh (Event Head)</name>
+				<number>9658970190</number>
+				<name>Suman Kumar</name>
+				<number>8093455938</number>
+				<name>Divyanshu Sinha</name>
+				<number>9470849004</number>
+				<name>Rahul Kumar Saw</name>
+				<number>8908843252</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2500</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+	<event event-id="15">
+		<event-name>Subway Surfers</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/15/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Simran Barnwal (Event Head)</name>
+				<number>7205383158</number>
+				<name>Vaishali Kumari</name>
+				<number>7064750625</number>
+				<name>Jagriti Mishra</name>
+				<number>9090529690</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>1200</item>
+			<item>800</item>
+		</event-prize>
+	</event>
+	<event event-id="16">
+		<event-name>Candy Crush</event-name>
+		<event-branch name="Branch:">CSE &amp; IT</event-branch>
+		<event-society name="Society:">I-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/cse/16/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+		</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Suman Kumar (Event Head)</name>
+				<number>7873305042</number>
+				<name>Farida Naaz</name>
+				<number>7749996313</number>
+				<name>Amit Kumar</name>
+				<number>9040903797</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>1200</item>
+			<item>800</item>
+		</event-prize>
+	</event>
+</cse>

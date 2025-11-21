@@ -1,0 +1,374 @@
+#contents, #main-container, #main-row {
+	height: 100%;
+}
+#main-row {
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+}
+#navigation-bar {
+	height: 52px;
+	z-index: 1;
+}
+#main-content-area {
+	height: calc(100% - 52px);
+}
+#main-content-area-column {
+	height: 100%;
+}
+.main-content {
+	min-height: 100%;
+}
+.panel {
+	display: inline-block;
+	position: absolute;
+	overflow-x: auto;
+	overflow-y: auto;
+	top: 0%;
+	width: 24%;
+	height: 100%;
+	margin: 0px;
+	font-size: 14px;
+	border-radius: 40px;
+	//background-repeat: no-repeat;//this would produce white lines in borders of the panel
+	background-size: cover;
+}
+.panel1:hover {
+	box-shadow: 6px 6px 6px #D00765, -6px -6px 6px #D00765;
+}
+.panel2:hover {
+	box-shadow: 6px 6px 6px #318A0A, -6px -6px 6px #318A0A;
+}
+.panel3:hover {
+	box-shadow: 6px 6px 6px #0C6CD3, -6px -6px 6px #0C6CD3;		
+}
+.panel4:hover {
+	box-shadow: 6px 6px 6px #825534, -6px -6px 6px #825534;
+}
+.extend:hover {
+	box-shadow: none;
+}
+.panel1 {
+	background-image: url('../images/background/panel1.jpg');
+	left: 0.5%;
+}
+.panel2 {
+	background-image: url('../images/background/panel2.jpg');
+	left: 25.5%;
+}
+.panel3 {
+	background-image: url('../images/background/panel3.jpg');
+	left: 50.5%;
+}
+.panel4 {
+	background-image: url('../images/background/panel4.jpg');
+	left: 75.5%;
+}
+.close-button {
+	position: absolute;
+	top: 2.5%;
+	right: 2.5%;
+	cursor: pointer;
+	font-size: 30px;
+	z-index: 2;
+	color: white;
+	-webkit-animation-name: scaleSize;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+	animation-name: scaleSize;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+.previous {
+	position: absolute;
+	top: 49%;
+	left: 0.5%;
+	cursor: pointer;
+	font-size: 30px;
+	z-index: 2;
+	color: white;
+	-webkit-animation-name: scaleSize;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+	animation-name: scaleSize;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+.next {
+	position: absolute;
+	top: 49%;
+	right: 0.5%;
+	cursor: pointer;
+	font-size: 30px;
+	z-index: 2;
+	color: white;
+	-webkit-animation-name: scaleSize;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+	animation-name: scaleSize;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+@-webkit-keyframes scaleSize {
+	from {
+		transform: scale(1);
+		color: white;
+	} to {
+		transform: scale(0.7);
+		color: black;
+	}
+}
+@keyframes scaleSize {
+	from {
+		transform: scale(1);
+		color: white;
+	} to {
+		transform: scale(0.7);
+		color: black;
+	}
+}
+.close-button:hover, .previous:hover, .next:hover {
+	transform: scale(2);
+}
+.extend {
+	-webkit-animation-name: extendName;
+	-webkit-animation-duration: 1.5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: 2;
+	-webkit-animation-direction: alternate;
+	animation-name: extendName;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: 2;
+	animation-direction: alternate;
+	z-index: 1;
+}
+@-webkit-keyframes extendName {
+	50% {
+		left: 38%;
+		width: 24%;
+	}
+	100% {
+		left: 0%;
+		width: 100%
+	}
+}
+@keyframes extendName {
+	50% {
+		left: 38%;
+		width: 24%;
+	}
+	100% {
+		left: 0%;
+		width: 100%
+	}
+}
+.turnNext {
+	-webkit-animation-name: turnNextName;
+	-webkit-animation-duration: 2s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: 1;
+	animation-name: turnNextName;
+	animation-duration: 2s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+}
+@-webkit-keyframes turnNextName {
+	from {
+		transform: rotateY(0deg);
+	} to {
+		transform: rotateY(180deg);
+	}
+}
+@keyframes turnNextName {
+	from {
+		transform: rotateY(0deg);
+	} to {
+		transform: rotateY(180deg);
+	}
+}
+.turnPrevious {
+	-webkit-animation-name: turnPreviousName;
+	-webkit-animation-duration: 2s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: 1;
+	animation-name: turnPreviousName;
+	animation-duration: 2s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+}
+@-webkit-keyframes turnPreviousName {
+	from {
+		transform: rotateY(180deg);
+	} to {
+		transform: rotateY(0deg);
+	}
+}
+@keyframes turnPreviousName {
+	from {
+		transform: rotateY(180deg);
+	} to {
+		transform: rotateY(0deg);
+	}
+}
+.min-detail {
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;	
+}
+.min-detail .min-event-name {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 22px;
+	font-weight: 600;
+}
+.min-detail .min-event-image {
+	width: 100%;
+	padding-bottom: 10px;
+}
+.min-detail .min-event-image img {
+	width: 100%;
+}
+.min-detail .min-event-coordinators {
+	padding-bottom: 10px;
+	font-size: 14px;
+}
+.min-detail .teachers, .min-detail .students {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.min-detail .teacherHeading, .min-detail .studentHeading{
+	font-size: 20px;
+}
+.min-detail .min-event-prize {
+	font-size: 14px;
+}
+.min-detail .min-event-prize .prize{
+	font-size: 20px;
+}
+.opacAdd {
+	-webkit-animation-name: opacAddName;
+	-webkit-animation-duration: 1.5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: 1;
+	-webkit-animation-fill-mode: forwards;
+	animation-name: opacAddName;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+@-webkit-keyframes opacAddName {
+	from{
+		opacity: 1;
+	} to {
+		opacity: 0;
+	}
+}
+@keyframes opacAddName {
+	from {
+		opacity: 1;
+	} to {
+		opacity: 0;
+	}
+}
+.opacRemove {
+	-webkit-animation-name: opacRemoveName;
+	-webkit-animation-duration: 1.5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-iteration-count: 1;
+	-webkit-animation-fill-mode: forwards;
+	animation-name: opacRemoveName;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+@-webkit-keyframes opacRemoveNAme {
+	from {
+		opacity: 0;
+	} to {
+		opacity: 1;
+	}
+}
+@keyframes opacRemoveName {
+	from {
+		opacity: 0;
+	} to {
+		opacity: 1;
+	}
+}
+
+.max-detail {
+	padding: 20px;
+	color: white;
+}
+.max-detail #event-name {
+	text-align: center;
+	font-size: 40px;
+}
+.max-detail #event-branch {
+	font-size: 28px;
+}
+.max-detail #event-society, .max-detail #event-rules, .max-detail #event-rounds, 
+	.max-detail #event-coordinators, .max-detail #event-prize{
+	font-size: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.max-detail #event-rounds .round {
+	font-size: 18px;
+	padding-left: 20px;
+}
+.max-detail #event-rounds .round ul {
+	font-size: 14px;
+	padding-left: 40px;
+}
+.max-detail ul {
+	list-style-type: disc;
+}
+.max-detail #event-rules ul {
+	font-size: 14px;
+	padding-left: 40px;
+}
+.max-detail #event-coordinators .teachers .teachers-heading, .max-detail #event-coordinators .students-heading {
+	font-size: 18px;
+	padding-left: 20px;
+}
+.max-detail #event-coordinators .teachers ul, .max-detail #event-coordinators .students ul {
+	padding-left: 60px;
+	font-size: 14px;
+}
+.max-detail #event-prize ul {
+	padding-left: 60px;
+	font-size: 14px;
+}

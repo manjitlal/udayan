@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eee>
+	<event event-id="1">
+		<event-name>Circuit Designing</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Electrical Designing</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/1/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="2">
+		<event-name>Smart Funda</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Smart Grid</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/2/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="3">
+		<event-name>Solar Flare</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">Solar</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/3/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="4">
+		<event-name>Circuit Mania</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/4/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="5">
+		<event-name>Opera And Add</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/5/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="6">
+		<event-name>Snake Puzzle</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/6/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="7">
+		<event-name>Tech Innovation</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/7/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="8">
+		<event-name>Roadies</event-name>
+		<event-branch name="Branch:">EEE</event-branch>
+		<event-society name="Society:">E-Geek Society</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">Android App Design Club</event-info>
+		<event-image>images/eee/8/</event-image>
+		<event-website name="Website:">https://www.mobility.tk</event-website>
+		<event-rules name="Event Rules">
+			<item>Material Design spec should be followed</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>MCQ round based on the android</item>
+			</round>
+			<round name="Round 2">
+				<item>Design the layout</item>
+				<item>Implement the layout</item>
+			</round>
+			<round name="Round 3">
+				<item>Design and implement an App</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Teacher Name (CSE)</name>
+				<number>7989457812</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Manjit Lal</name>
+				<number>7749995609</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+</eee>

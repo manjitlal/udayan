@@ -1,0 +1,40 @@
+.header
+{
+	padding: 4px;
+	font-size: 18px;
+}
+body
+	{
+		background:url(../images/register.jpg);
+		color: white;
+	}
+	.reg-head h1
+	{
+		text-align: center;
+		text-decoration: underline;
+		color:palegoldenrod;
+		font-family: verdan;
+	}
+	.reg-head h3
+	{
+		margin-top: 8%;
+		color:orange;
+		font-family:sans-serif;
+	}
+	.fees h1
+	{
+      text-align: center;
+		text-decoration: underline; 
+		color:palegoldenrod; 
+		font-family: h;
+	}
+	.fees ul
+	{
+		margin-top: 70px;
+		text-align:center; 
+	}
+	.fees
+	{
+		margin-top: 10%;
+		font-family:sans-serif;
+	}

@@ -1,0 +1,83 @@
+body
+{
+  background:url(../images/team/background.jpg)repeat fixed;
+  color: whitesmoke;
+}
+.header
+{
+  //padding: 4px;
+  //font-size: 18px;
+}
+.main h1
+{
+  text-align: center;
+  text-decoration:underline;
+  text-decoration-color:green;
+  text-decoration-style:solid; 
+  font-family: verdana
+}
+.main h4
+{
+  margin-left: 50px;
+  font-family:gabriola;
+  font-size: 24px; 
+  text-align: justify;
+}
+.cc
+{
+  margin-left:41%;
+}
+.cc1
+{
+  margin-left:22%;
+}
+.cc2
+{
+  margin-left:0%;
+}
+.cc img
+{
+  border:1px dotted royalblue;
+}
+.cc p,.cc1 p,.cc2 p
+{
+  font-size:18px;
+  padding: 5px;
+  padding-left: 40px;
+  color:aquamarine;
+  font-family:verdana;
+}
+.wd{
+  padding-left:4%;
+  padding-top: 2%;
+}
+.wd p
+{
+  font-size:18px;
+  padding: 5px;
+  padding-left: 40px;
+  color:aquamarine;
+  font-family:verdana;
+}
+.wd1
+{
+	 //padding-left:4%;
+  padding-top: 2%;
+}
+.wd1 p
+{
+  font-size:18px; 
+  padding: 5px;
+  color:aquamarine;
+}
+  .footer
+  {
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color:white;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 16px;
+    font-family: verdana;
+  }

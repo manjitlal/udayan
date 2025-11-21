@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<civil>
+	<event event-id="1">
+		<event-name>Akaar</event-name>
+		<event-branch name="Branch:">CIVIL</event-branch>
+		<event-society name="Society:">N/A</event-society>
+		<event-clubName name="Club:">Pyramid Club</event-clubName>
+		<event-info name="About The Event">This is a Club Event which is coordinated by pyramid club.</event-info>
+		<event-image>images/civil/1/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+				<item>
+					In round -1 there is Quiz competition which is performed individually.
+				</item>
+				<item>
+					In round-2 there is Group activity and it is Performed in a group.
+				</item>
+				<item>
+					Each group consist of maximum three members.
+				</item>
+     	</event-rules>
+
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Quiz competition.(14-02-2017)</item>
+			</round>
+			<round name="Round 2">
+				<item>Find the different components as mention above by following our code given at the time of event. (Group activity and each group consist of maximum three members).(15-02-2017)</item>
+			</round>
+			<round name="Round 3">
+				<item>Engineering Drawing (Individual Participant). (16-02-2017)</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Tapan Kumar Nayak (Asst. Prof Civil Engineering Dept.)</name>
+				<number>8763212345</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Rudra Narayan Dash(Event Head)</name>
+				<number>8260102030</number>
+				<name>Satya Priya Samal(3rd Year)</name>
+				<number>7504812006</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+	<event event-id="2">
+		<event-name>Paper Bridge</event-name>
+		<event-branch name="Branch:">CIVIL</event-branch>
+		<event-society name="Society:">N/A</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a technical event.</event-info>
+		<event-image>images/civil/2/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>It consist of only one round which is of four hours.</item>
+			<item>This event is performed in a group and each group consists of maximum three members.</item>
+			<item>There is a provision of paper, gum, cutter and a stick.</item>
+			<item> After completion of this event there is a testing round of the structures which is made by paper but this activity will be perform in the next day.</item>
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Making of paper bridge.(15-02-2017)</item>
+			</round>
+			<round name="Round 2">
+				<item>Testing of the structure by weight balance(16-02-2017)</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Tapan Kumar Nayak (Asst. Prof Civil Engineering Dept.)</name>
+				<number>8763212345</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Pratyus Pradhan (4th yr)(Event Head)</name>
+				<number>9090876060</number>
+				<name>Asutosh Jena(3rd Year)</name>
+				<number>7504507770</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>3000</item>
+			<item>2000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="3">
+		<event-name>Civil-O-Mania</event-name>
+		<event-branch name="Branch:">CIVIL</event-branch>
+		<event-society name="Society:">N/A</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a fun event.</event-info>
+		<event-image>images/civil/3/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>It consist of it consists of three rounds,which is conducted in three different days.</item>
+			<item>The 1st round is basically a fun quiz round so participant will perform individually.</item>
+			<item>In 2nd round is Treasure hunt round and it is a group activity.</item>
+			<item>The 3rd round is a balloon grab round in which you grab the balloons. After that activity winners will be decided.</item>   
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Quiz Fun.(14-02-2017)</item>
+			</round>
+			<round name="Round 2">
+				<item>Treasure Hunt.(15-02-2017)</item>
+			</round>
+			<round name="Round 3">
+				<item>Balloon Grab.(16-01-2017)</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Kajal Panigrahi (Asst. Prof Civil Engineering Dept.)</name>
+				<number>8908825806</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Salini Patra(4th yr)(Event Head)</name>
+				<number>9090876060</number>
+				<name>Abhijeet Kumar(3rd Year) </name>
+				<number>9937612126</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+	<event event-id="4">
+		<event-name>SACK AND SAND</event-name>
+		<event-branch name="Branch:">CIVIL</event-branch>
+		<event-society name="Society:">N/A</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a fun event.</event-info>
+		<event-image>images/civil/4/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>It consist of it consists of three rounds,which is conducted in single day.</item>
+			<item>The 1st round is basically a sack race and put brinjal in the bucket round so participant will perform individually.</item>
+			<item>In 2nd round is mazeobstacle  round and it is individual group activity.</item>
+			<item>The 3rd round is a lock and key round in which you have to find the keys and solve the puzzle. After that activity winners will be decided.</item>   
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>SACK RACE WITH BRINJAL ACTIVITY(16-01-2017)</item>
+			</round>
+			<round name="Round 2">
+				<item>Obstacle Maze(16-02-2017)</item>
+			</round>
+			<round name="Round 3">
+				<item>Lock and Key.(16-02-2017)</item>
+			</round>
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Manas Ranjan Sahoo(Lab-in-charge,Civil Engg Dept)</name>
+				<number>00000000000</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Preetam Kumar Nayak(4th yr)(Event Head)</name>
+				<number>7504284442</number>
+				<name>Nishigandha Mallick(3rd Year) </name>
+				<number>9090876060</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1500</item>
+		</event-prize>
+	</event>
+
+	<event event-id="5">
+		<event-name>Built-D-Stick</event-name>
+		<event-branch name="Branch:">CIVIL</event-branch>
+		<event-society name="Society:">N/A</event-society>
+		<event-clubName name="Club:">N/A</event-clubName>
+		<event-info name="About The Event">This is a Technical event.</event-info>
+		<event-image>images/civil/5/</event-image>
+		<event-website name="Website:">N/A</event-website>
+		<event-rules name="Event Rules">
+			<item>It consist of only one round which is of two hours.</item>
+			<item>This event is performed in a group and each group consists of maximum three members.</item>
+			<item>There is a provision of paper, gum, cutter and stick.</item>
+			<item>After completion of this event the structures which is made by stick will be shown to the lecturer and then we will announce the winner</item>   
+     	</event-rules>
+		<event-rounds name="Rounds">
+			<round name="Round 1">
+				<item>Making of stick house.(14-02-2017)</item>
+			</round>
+			<round name="Round 2">
+				<item>Design will be decided according to the results and designs are actioned by us.(16-02-2017)</item>
+			</round>
+			
+		</event-rounds>
+		<event-coordinators name="Event Coordinators:">
+			<teachers name="Faculty In-charge:">
+				<name>Tapan Kumar Nayak (Asst. Prof Civil Engineering Dept.)</name>
+				<number>8763212345</number>
+			</teachers>
+			<students name="Student Coordinators:">
+				<name>Sarthak Patra(4th yr)(Event Head)</name>
+				<number>9861092849</number>
+				<name>Swadhin Dash(3rd Year) </name>
+				<number>9853690457</number>
+			</students>
+		</event-coordinators>
+		<event-prize name="Prize Money">
+			<item>2000</item>
+			<item>1000</item>
+		</event-prize>
+	</event>
+
+</civil>
